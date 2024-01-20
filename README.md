@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Janisha
 - 👀 I’m interested in learning computer language and technology
-- 🌱 I’m currently learning coding in python.
+- 🌱 I’m current Skills are python ,Aws cloud ,Devops .
+- http://linkedin.com/in/janisha-sethi-014687205
 
 I am ambitious and driven, educated, focus in a 
 particular field of interest. I am outspoken and 
